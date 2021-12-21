@@ -1,65 +1,65 @@
 {
   "posts": [
     {
+      "id": 1,
       "title": "Let's build Vue directives: Adding a wave effect to buttons",
       "published_at": "2021-12-10T10:00:00.000+01:00",
       "url": "https://blog.q-bit.me/lets-build-vue-directives-adding-a-wave-effect-to-buttons/"
     },
     {
+      "id": 2,
       "title": "A step-by-step guide to developing and deploying Vue apps with docker, part two",
       "published_at": "2021-11-15T07:50:00.000+01:00",
       "url": "https://blog.q-bit.me/a-step-by-step-guide-for-developing-and-deploying-a-vue-js-app-with-docker-part-two/"
     },
     {
+      "id": 3,
       "title": "Let's build Vue directives: Scrolling elements into view",
       "published_at": "2021-10-03T17:12:10.000+02:00",
       "url": "https://blog.q-bit.me/lets-build-vue-directives-scrolling-elements-into-view/"
     },
     {
+      "id": 4,
       "title": "How to self-host Google fonts for your web application | Part 1/2: DIY vs. CDN",
       "published_at": "2021-09-15T10:00:00.000+02:00",
       "url": "https://blog.q-bit.me/how-to-self-host-google-fonts-part-one/"
     },
     {
+      "id": 5,
       "title": "How to self-host Google fonts for your web application | Part 2/2: Download and provision",
       "published_at": "2021-09-15T10:00:00.000+02:00",
       "url": "https://blog.q-bit.me/how-to-self-host-google-fonts-part-two/"
     },
     {
+      "id": 6,
       "title": "How to monitor the progress of a Javascript fetch - request and cancel it on demand.",
       "published_at": "2021-08-20T10:00:00.000+02:00",
       "url": "https://blog.q-bit.me/monitoring-and-canceling-a-javascript-fetch-request/"
     },
     {
+      "id": 7,
       "title": "A step-by-step guide to developing and deploying Vue apps with docker, part one",
       "published_at": "2021-08-13T10:00:00.000+02:00",
       "url": "https://blog.q-bit.me/how-to-develop-and-deploy-a-vue-js-app-with-docker-part-one/"
     },
     {
+      "id": 8,
       "title": "A collection of useful express.js middleware concepts for your next project",
       "published_at": "2021-08-06T10:00:00.000+02:00",
       "url": "https://blog.q-bit.me/a-collection-of-useful-express-js-middleware-concepts-for-your-next-project/"
     },
     {
+      "id": 9,
       "title": "Seven advanced techniques for Javascript spread syntax and rest parameters",
       "published_at": "2021-07-29T08:19:00.000+02:00",
       "url": "https://blog.q-bit.me/ten-simple-techniques-for-javascript-spread-and-rest/"
     },
     {
+      "id": 10,
       "title": "🌙 How to implement darkmode with a Vue.js component",
       "updated_at": "2021-08-01T20:16:28.000+02:00",
       "published_at": "2021-06-27T14:01:00.000+02:00",
       "url": "https://blog.q-bit.me/dark-mode-toggle-component-with-vue-js/"
-    },
-    {
-      "title": "Use async / await with Javascript's .map() and other high-order functions",
-      "published_at": "2021-05-31T21:32:48.000+02:00",
-      "url": "https://blog.q-bit.me/use-async-await-with-high-order-functions/"
-    },
-    {
-      "title": "Five  conductive - and five innovative npm packages",
-      "published_at": "2021-05-15T14:21:08.000+02:00",
-      "url": "https://blog.q-bit.me/ten-npm-packages-to-refine-your-everyday-work/"
     }
   ]
 }
