@@ -310,57 +310,5 @@
       "meta_title": null,
       "meta_description": null,
       "frontmatter": null
-    },
-    {
-      "id": "604372c18bcca203882c5bcc",
-      "uuid": "04bec027-1e4d-443a-af1c-5dc6675fc464",
-      "title": "How to use service workers in javascript",
-      "slug": "an-introduction-to-the-javascript-service-worker-api",
-      "comment_id": "604372c18bcca203882c5bcc",
-      "feature_image": null,
-      "featured": false,
-      "created_at": "2021-03-06T13:17:05.000+01:00",
-      "updated_at": "2021-07-25T20:37:08.000+02:00",
-      "published_at": "2021-04-15T10:00:00.000+02:00",
-      "url": "https://blog.q-bit.me/an-introduction-to-the-javascript-service-worker-api/",
-      "excerpt": "Progressive Webapps use service workers to make websites and webapps feel more like the native apps users know and love on their phones. This article will give you an introduction into the topic with some simple - to - follow code examples. ",
-      "page": false,
-      "og_image": null,
-      "og_title": null,
-      "og_description": null,
-      "twitter_image": null,
-      "twitter_title": null,
-      "twitter_description": null,
-      "meta_title": null,
-      "meta_description": "Progressive Webapps use service workers to make websites and webapps feel more like the native apps users know and love on their phones.",
-      "frontmatter": null
-    },
-    {
-      "id": "6069c404b6454d03943e67dd",
-      "uuid": "12f6aa83-2414-4a22-8266-6e5f8663f9c0",
-      "title": "How to create svg elements with Javascript",
-      "slug": "how-to-create-svg-elements-with-javascript",
-      "comment_id": "6069c404b6454d03943e67dd",
-      "feature_image": null,
-      "featured": true,
-      "created_at": "2021-04-04T15:49:56.000+02:00",
-      "updated_at": "2021-08-01T20:18:05.000+02:00",
-      "published_at": "2021-04-06T19:49:37.000+02:00",
-      "url": "https://blog.q-bit.me/how-to-create-svg-elements-with-javascript/",
-      "excerpt": "SVGs are easily dropped into existing html content. But what if you wanted to add them dynamically, say to several DOM elements, with Javascript? Read on to find out how.",
-      "page": false,
-      "og_image": null,
-      "og_title": null,
-      "og_description": null,
-      "twitter_image": null,
-      "twitter_title": null,
-      "twitter_description": null,
-      "meta_title": null,
-      "meta_description": "SVGs are easily dropped into existing html content. But what if you wanted to add them dynamically, say to several DOM elements, with Javascript?",
-      "frontmatter": null
     }
-  ],
-  "meta": {
-    "pagination": { "page": 1, "limit": 15, "pages": 2, "total": 22, "next": 2, "prev": null }
-  }
 }
